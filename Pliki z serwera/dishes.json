@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Lavash",
+		"components": [
+		{
+			"name": "Tomato"
+		},
+		{
+			"name": "Onion"
+		},
+		{
+			"name": "Cheese"
+		}
+		], 
+		"recipe": "Coat a large bowl with oil. Set aside. In a measuring cup, combine yeast, water, and sugar. Mix until yeast is dissolved. Set aside. In a large mixing bowl, combine flour and salt. Add yeast-water-sugar mixture and form a dough. Knead dough for 10 to 15 minutes by hand or 5 to 8 minutes using a dough hook in a stand mixer. Once the dough is kneaded, place the ball of dough in the oiled bowl. Roll the dough around the bowl to coat it with oil. Cover and let rise for 1 to 1 1/2 hours, or until the dough doubles in size. Once the dough has doubled, punch it down to release air. Continue to knead for about 5 minutes. Divide dough into 8 separate balls of dough. Cover and allow to rise for 30 minutes. Heat oven to 400 F. Once the balls of dough have risen, roll them out into thin rectangles, about 12x10-inch for large lavash or 8x6-inch for small flatbreads. They should be as thin as pizza dough.",
+    	"imgURL": "http://192.168.64.2/cookin/img/Lawasz.jpg"
+	},
+		{
+		"name": "Sandwich",
+		"components": [
+		{
+			"name": "Tomato"
+		},
+		{
+			"name": "Onion"
+		},
+		{
+			"name": "Butter"
+		}
+		], 
+		"recipe": "In a large skillet, heat olive oil and two tablespoons butter over medium-high heat. Fry mushrooms in a single layer until golden and beginning to crisp, turning half way through, about 10-12 minutes. Sprinkle with salt and pepper. Remove mushrooms; wipe out skillet. Spread 3 tablespoons butter on one side of each slice of bread. Place bread, butter side down, in same skillet over medium-low heat; toast until golden brown, 2-3 minutes; remove. In a small bowl, combine cheddar, Monterey Jack and Gruyere. In another bowl, mix together remaining 3 tablespoons butter, mayonnaise, Manchego cheese and onion powder. To assemble sandwiches, top toasted side of 4 bread slices with mushrooms; sprinkle with fresh thyme; add sliced brie. Sprinkle cheddar cheese mixture evenly over brie. Top with remaining bread slices, toasted side facing inwards. Spread the butter-mayonnaise mixture on the outsides of each sandwich. Place in same skillet and cook until golden brown and cheese is melted, 5-6 minutes on each side. Serve immediately.",
+    "imgURL": "http://192.168.64.2/cookin/img/Sandwich.jpg"
+	},
+		{
+		"name": "Lesco",
+		"components": [
+		{
+			"name": "Tomato"
+		},
+		{
+			"name": "Onion"
+		},
+		{
+			"name": "Cheese"
+		},
+		{
+			"name": "Butter"
+		}
+		], 
+		"recipe": "Fry onion and salami in oil in a frying pan for a few minutes.  Put peppers, courgettes, aubergine, onions and salami in a big pot. Stir in tomatoes, and add some water to make it kind of a soup. Season with salt, pepper, some sugar and paprika. Cook for about 30 minutes.",
+    "imgURL": "http://192.168.64.2/cookin/img/Leczo.jpg"
+	},
+]
